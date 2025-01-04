@@ -973,7 +973,7 @@ padding-top: 0;
 }
 .gay{color: green;}
 .head{display:flex;padding-top: 0;margin-top: 0;margin-bottom: 100px; }
-.logo-box{margin-right: 10px;margin-top: 20px;}
+.logo-box{margin-right: 10px;margin-top: 10px;}
 .logo-img{margin-left: 0 ;width: 200px;}
 
 .logo1 { margin-top: 10px; overflow:hidden; border-radius: 50px; width: 50px; /* Adjust size as needed */ height: 50px;    }
