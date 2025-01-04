@@ -991,3 +991,15 @@ padding-top: 0;
   background-size: 200% 100%;
   animation: gradient 5s infinite;
 }
+@keyframes gradient {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
+.pay1{font-family:'Times New Roman', Times, serif; font-size: 25px; color:white; width:300px ;display: inline-block;}
