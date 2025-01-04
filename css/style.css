@@ -973,9 +973,11 @@ padding-top: 0;
 }
 .gay{color: green;}
 .head{display:flex;padding-top: 0;margin-top: 0;margin-bottom: 100px; }
-.logo-box{margin-right: 10px;margin-top: 40px;}
+.logo-box{margin-right: 10px;margin-top: 20px;}
 .logo-img{margin-left: 0 ;width: 200px;}
-.logo1 {margin-top: 0; overflow:hidden; border-radius: 50%; width: 100px; /* Adjust size as needed */ height: 100px; display: flex;   }
+
+.logo1 { margin-top: 10px; overflow:hidden; border-radius: 50px; width: 50px; /* Adjust size as needed */ height: 50px;    }
+.logo1 img{ object-fit: cover;width: 100%;height: 100%;}
 .box-sha { box-shadow: 1px 1px 7px 2px cyan; }
 .text { text-shadow: -3px 5px 2px rgba(247, 87, 220, 0.945); }
 
