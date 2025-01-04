@@ -972,8 +972,8 @@ margin-top: 0;
 padding-top: 0;
 }
 .gay{color: green;}
-.head{display:flex;padding-top: 0;margin-top: 0;margin-bottom: 100px; }
-.logo-box{margin-right: 10px;margin-top: 10px;}
+.head{display:flex;padding-top: 0;margin-top: 0;margin-bottom: 100px; text-align: center;}
+.logo-box{ margin-right:  10px;margin-top: 10px;}
 .logo-img{margin-left: 0 ;width: 200px;}
 
 .logo1 { margin-top: 10px; overflow:hidden; border-radius: 50px; width: 50px; /* Adjust size as needed */ height: 50px;    }
@@ -983,3 +983,11 @@ padding-top: 0;
 
 .off{max-height: 500px;margin-bottom: 30%;}
 .kofi{background-color: #0c0c0c;}
+.pay {text-align: center;
+  color: #FFFFE0;
+  width: 100%;
+  height: auto;
+  background: linear-gradient(45deg, red,blue, orange);
+  background-size: 200% 100%;
+  animation: gradient 5s infinite;
+}
